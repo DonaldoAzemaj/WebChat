@@ -1,0 +1,96 @@
+body{
+    background-color: #82ccdd;
+  
+   
+}
+
+
+
+
+.loginForm{
+  
+    width: 500px;
+    height: 400px;
+    background-color: #60a3bc;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #3c6382;
+    border-radius:25px;
+    
+}
+
+.loginFormOuter{
+    padding: 50px;
+    
+}
+
+.loginFormDesign{
+    
+ margin: 50px;
+ margin-top: 60px;
+}
+
+.inputvalue{
+margin-top: 3px;
+margin-bottom: 5px;
+width: 100%;
+height: 25px;
+background-color: #beeffa;
+border-color: #60a3bc;
+
+}
+
+.inputLabel{
+
+    font-weight: bold;
+}
+
+#submit_btn{
+    font-weight: bold;
+    border-color: #487eb0;
+    background-color:#00a8ff;
+    margin-top: 5px;
+    width: 100%;
+    height: 35px;
+    
+}
+
+#error_msg{
+    color: rgb(185, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 15px;
+    
+  }
+
+
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 2px 0px 2px   rgb(0, 93, 143,0.5); 
+    border-radius: 5px;
+    margin-top:5px;
+    margin-bottom:5px;
+   
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(0, 150, 184,1); 
+    border-radius: 10px;
+   
+     
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(0, 93, 143,1); 
+    
+
+  }
+
