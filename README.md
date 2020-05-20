@@ -4,6 +4,7 @@
 
 <h5>Some screenshots how it looks like</h5>
 
+![alt text](https://github.com/donaldoazemaj/WebChat/blob/master/images/webchatscreen.png?raw=true)
 
 <hr>
 
